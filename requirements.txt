@@ -1,0 +1,4 @@
+pandas
+mechanize
+cookiejar
+beautifulsoup4
